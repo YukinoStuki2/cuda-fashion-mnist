@@ -3,6 +3,10 @@ cmake-build-debug/
 cmake-build-release/
 
 .idea/
+**/.idea/
+*.iml
+*.ipr
+*.iws
 
 **/__pycache__/
 *.pyc
